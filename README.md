@@ -28,10 +28,9 @@ Simply download the Zip File and run on your system
 
 ## Documentation
 
-Root Hosted Link - () 
+Root Hosted Link - (https://hariom90.github.io/HospitalAPI/) 
 
 ## API Routes
-
 ### Doctor
 
 -   **POST** `/doctors/register` - Register a new doctor.
